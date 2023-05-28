@@ -4,4 +4,4 @@
 
 Below are some results displayed in SQL.
 
-<img src="images/combine_images.jpg" alt="My Image">
+
